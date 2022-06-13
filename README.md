@@ -1,0 +1,2 @@
+# practise_dbms_queries
+PRACTICE DBMS QUERIES + ADDITIONAL QUERIES
